@@ -28,28 +28,29 @@ A user-friendly web application built with Streamlit to predict customer churn. 
 ## 📂 Project Structure
 .
 
-├── 📄 app.py                   # Main Streamlit application file
+├── 📄 app.py                  
 
-├── 📄 notebook.ipynb            # Jupyter Notebook for data analysis and model training
+├── 📄 notebook.ipynb            
 
-├── 📄 customer_churn_data.csv   # The dataset used for training
+├── 📄 customer_churn_data.csv   
 
-├── 📄 model.pkl                 # The pre-trained machine learning model
+├── 📄 model.pkl                
 
-├── 📄 scaler.pkl                # The pre-trained data scaler
+├── 📄 scaler.pkl                
 
-├── 📄 requirements.txt          # List of Python dependencies
+├── 📄 requirements.txt          
 
-└── 📄 README.md                 # This file
+└── 📄 README.md                 
 
 ## ⚙️ Setup and Installation
 Follow these steps to set up and run the project on your local machine.
 
 1. Clone the Repository
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/kashyap09m/Churn_Customer_Prediction.git
+
 cd customer-churn-prediction
 
-2. Create a Virtual Environment (Recommended)
+3. Create a Virtual Environment (Recommended)
 It's a good practice to create a virtual environment to manage project dependencies.
 
 - For Windows
